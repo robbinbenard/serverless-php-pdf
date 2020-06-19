@@ -1,0 +1,6 @@
+{
+    "require": {
+        "bref/bref": "^0.5.27",
+        "knplabs/knp-snappy": "^1.2"
+    }
+}
